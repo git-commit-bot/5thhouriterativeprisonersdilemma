@@ -18,7 +18,6 @@ def move(my_history, their_history, my_score, their_score):
     Returns 'c' or 'b'. 
     '''
     return 'b'
-    j = 0
     for i in my_history[1:]:
         return str(their_score[:-1])
         
